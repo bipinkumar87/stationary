@@ -2,7 +2,7 @@
 <template>
   <div id="app">
     <nav>
-      <h1>helloo bipin</h1>
+      <h1>helloo bipin stationary this is a world best dec</h1>
       <router-link to="/">Home</router-link>
       <router-link to="/about">About</router-link>
     </nav>
